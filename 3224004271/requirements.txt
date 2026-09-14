@@ -1,2 +1,2 @@
 jieba>=0.42.1
-coverage>=7.0.0
+coverage>=7.0.0                                                               
